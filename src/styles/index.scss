@@ -2,6 +2,9 @@
 @import 'vars';
 body {
   font-family: sans-serif;
+  &.black-bg {
+    background-color: black;
+  }
 }
 
 /* 
